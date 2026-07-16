@@ -1,6 +1,8 @@
+*English*
 Sampling locations and analysis codes (R and Google Earth Engine) from the manuscript  
 **Socioeconomic policy and large mature trees are vital for moor macaque (*Macaca maura*) conservation in anthropogenically-modified landscapes**
 
+*Bahasa Indonesia*
 Lokasi pengambilan sampel dan kode analisis (R dan Google Earth Engine) dari naskah  
 **Kebijakan sosial ekonomi dan pohon besar dewasa sangat penting bagi konservasi monyet moor (*Macaca maura*) di lanskap yang dimodifikasi secara antropogenik**
 
