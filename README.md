@@ -2,14 +2,16 @@
 
 Sampling locations and analysis codes (R and Google Earth Engine) from the manuscript  
 **Socioeconomic policy and large mature trees are vital for moor macaque (*Macaca maura*) conservation in anthropogenically-modified landscapes**
+<br><br>
 
 *Bahasa Indonesia*
 
 Lokasi pengambilan sampel dan kode analisis (R dan Google Earth Engine) dari naskah  
 **Kebijakan sosial ekonomi dan pohon besar dewasa sangat penting bagi konservasi monyet moor (*Macaca maura*) di lanskap yang dimodifikasi secara antropogenik**
+<br><br>
 
 
-Víctor Beltrán Francés<sup> 1</sup>; Anja Hutschenreiter<sup> 2</sup>; Gonzalo E. Pinilla-Buitrago<sup> 3</sup>; Rahman Fiqhi<sup> 4</sup>; Amiruddin<sup> 4</sup>; Risma Illa Maulany<sup> 4</sup>; Putu Oka Ngakan<sup> 4</sup>; Bonaventura Majolo<sup> 5</sup>; Federica Amici<sup> 6, 7</sup>\*; Denise Spaan<sup> 1</sup>\*; Hjalmar S. Kühl<sup> 8, 9, 10</sup>
+Víctor Beltrán Francés<sup> 1</sup>; Anja Hutschenreiter<sup> 2</sup>; Gonzalo E. Pinilla-Buitrago<sup> 3</sup>; Rahman Fiqhi<sup> 4</sup>; Amiruddin<sup> 4</sup>; Risma Illa Maulany<sup> 4</sup>; Putu Oka Ngakan<sup> 4</sup>; Bonaventura Majolo<sup> 5</sup>; Federica Amici<sup> 6, 7</sup>\; Denise Spaan<sup> 1</sup>\; Hjalmar S. Kühl<sup> 8, 9, 10</sup>
 
 <sup>1</sup> Instituto de Neuroetología, Universidad Veracruzana, Veracruz, México  
 <sup>2</sup> Instituto de Investigaciones en Ecosistemas y Sustentabilidad, Universidad Nacional Autónoma de México, Morelia, México  
