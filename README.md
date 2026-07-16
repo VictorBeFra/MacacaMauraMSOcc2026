@@ -1,6 +1,6 @@
 Sampling locations and analysis codes (R and Google Earth Engine) from the manuscrpit 
 Socioeconomic policy and large mature trees are vital for moor macaque (*Macaca maura*) conservation in anthropogenically-modified landscapes
-Víctor Beltrán Francés<sup>1</sup>; Anja Hutschenreiter<sup>2</sup>; Gonzalo E. Pinilla-Buitrago<sup>3</sup>; Rahman Fiqhi<sup>4</sup>; Amiruddin<sup>4</sup>; Risma Illa Maulany<sup>4</sup>; Putu Oka Ngakan<sup>4</sup>; Bonaventura Majolo<sup>5</sup>; Federica Amici<sup>6</sup>,<sup>7</sup>, *; Denise Spaan<sup>1</sup>, *; Hjalmar S. Kühl<sup>8</sup>,<sup>9</sup>,<sup>10</sup>
+Víctor Beltrán Francés<sup>1</sup>; Anja Hutschenreiter<sup>2</sup>; Gonzalo E. Pinilla-Buitrago<sup>3</sup>; Rahman Fiqhi<sup>4</sup>; Amiruddin<sup>4</sup>; Risma Illa Maulany<sup>4</sup>; Putu Oka Ngakan<sup>4</sup>; Bonaventura Majolo<sup>5</sup>; Federica Amici<sup>6</sup>,<sup>7</sup>, *; Denise Spaan<sup>1</sup>, *; Hjalmar S. Kühl<sup>8, 9, 10</sup>
 1 Instituto de Neuroetología, Universidad Veracruzana, Veracruz, México
 2 Instituto de Investigaciones en Ecosistemas y Sustentabilidad, Universidad Nacional Autónoma de México, Morelia, México
 3 Instituto de Ecología, Universidad Nacional Autónoma de México, Mérida, México
